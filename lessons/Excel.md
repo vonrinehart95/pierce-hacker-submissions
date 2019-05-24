@@ -30,13 +30,24 @@ Students at pierce generally have a hard time using the microsoft office program
 ## Lesson Steps/Components [as many as needed]
 1. Open blank excel spreadsheet.
 1. Input your data into excel.
-1. Highlight your data by moving the mouse from the beginning of your data (A-1) to the end of your data (13-B).
+1. Highlight your data by moving the mouse from the beginning of your data to the end of your data.
 1. Click the insert tab, and in the charts section choose one of nine graph and chart options to make.
 1. Adjust your data’s color’s and layout if applicable.
 1. Reorder and put a title on the graph upon personal desires.
 
+## Photos
+
+* Input your data.
+
 ![test](images/excel_step1.png)
 
+* Highlight your data by moving the mouse from the beginning of your data to the end of your data, then click the insert tab, and in the charts section choose one of nine graph and chart options to make.
+
+![test](images/excel_step2.png)
+
+* Adjust your data’s color’s and layout if applicable.
+
+![test](images/excel_step3.png)
 
 ## Credits, Further Reading, etc.
 
