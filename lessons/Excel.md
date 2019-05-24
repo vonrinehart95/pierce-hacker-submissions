@@ -35,7 +35,7 @@ Students at pierce generally have a hard time using the microsoft office program
 1. Adjust your data’s color’s and layout if applicable.
 1. Reorder and put a title on the graph upon personal desires.
 
-![test](lessons/images/excel_step1.png)
+![test](images/excel_step1.png)
 
 
 ## Credits, Further Reading, etc.
