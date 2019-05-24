@@ -46,7 +46,7 @@ Students enter the class number, select the quarter/year, and can then check the
 ###### On the left side-bar under Scheduling click on *"eSchedule"*, you will then be directed to a new tab for the Class Schedule page.
 * **eSchedule**
 
-![eSchedule] (/Users/luke-mac/Desktop/eSchedule_pic.png)
+![eSchedule](lessons/images/eSchedule_pic.png)
 
 > On the eSchedule page students can specify what kind of classes they are looking for. By choosing what subject, days of the week, starting time, and disciplines, students can quickly browse the options they have. 
 
